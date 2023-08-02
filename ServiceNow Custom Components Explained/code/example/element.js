@@ -1,8 +1,8 @@
-import '../src/x-961977-color-picker';
+import "../src/x-961977-dark-mode-toggle/index";
 
-const el = document.createElement('DIV');
+const el = document.createElement("DIV");
 document.body.appendChild(el);
 
 el.innerHTML = `		
-<x-961977-color-picker></x-961977-color-picker>
+<x-961977-dark-mode-toggle></x-961977-dark-mode-toggle>
 `;

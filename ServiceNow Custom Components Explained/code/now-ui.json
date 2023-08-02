@@ -1,15 +1,15 @@
 {
-	"components": {
-	    "x-961977-color-picker": {
-	        "innerComponents": [],
-			"uiBuilder": {
-				"associatedTypes": ["global.core", "global.landing-page"],
-				"label": "My Component",
-				"icon": "document-outline",
-				"description": "A description of my component",
-				"category": "primitives"
-			}
-	    }
-	},
-	"scopeName": "x_961977_color"
+  "components": {
+    "x-961977-dark-mode-toggle": {
+      "innerComponents": [],
+      "uiBuilder": {
+        "associatedTypes": ["global.core", "global.landing-page"],
+        "label": "My Component",
+        "icon": "document-outline",
+        "description": "A description of my component",
+        "category": "primitives"
+      }
+    }
+  },
+  "scopeName": "x_961977_color"
 }

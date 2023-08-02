@@ -1,1 +1,1 @@
-import './x-961977-color-picker';
+import "./x-961977-dark-mode-toggle";

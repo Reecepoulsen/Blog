@@ -10,6 +10,7 @@
   margin: 0 auto;
   border: solid 2px #85dead;
   transition: all 0.5s ease;
+  font-size: 20px;
 }
 
 .dark {
@@ -20,8 +21,4 @@
 .light {
   background-color: #85dead;
   color: #030717;
-}
-
-#text {
-  font-size: 20px;
 }

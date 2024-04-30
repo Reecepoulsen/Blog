@@ -1,3 +1,6 @@
 template
 images
 *article.md
+.vscode
+jsconfig.json
+.DS_Store
